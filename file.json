@@ -1,0 +1,20 @@
+[
+    {
+        "nama" : "Trisna Armanda Saputra",
+        "umur" : 24,
+        "id" : "na_104",
+        "hobby" : "ngoding"
+    },
+    {
+        "nama" : "Ayu Setya Wardani",
+        "umur" : 23,
+        "id" : "ayuswdh",
+        "hobby" : "Makan"
+    },
+    {
+        "nama" : "Dasima Nawa Bramunadi",
+        "umur" : 24,
+        "id" : "dimas_12",
+        "hobby" : "ngoding"
+    }
+]
